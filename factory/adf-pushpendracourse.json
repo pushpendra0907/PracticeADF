@@ -1,0 +1,9 @@
+{
+	"name": "adf-pushpendracourse",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "469b49d4-7dc6-4602-9445-0100e8f40a9a",
+		"tenantId": "018fd3b3-709a-45c2-b241-d93ac1573d17"
+	}
+}
